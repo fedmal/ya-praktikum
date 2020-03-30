@@ -1,0 +1,14 @@
+@import "./video-block__img/video-block__img.css";
+@import "./video-block__play/video-block__play.css";
+@import "./video-block__duration/video-block__duration.css";
+@import "./video-block__title/video-block__title.css";
+@import "./video-block__subtitle/video-block__subtitle.css";
+@import "./video-block__content/video-block__content.css";
+
+@import "./video-block__link/video-block__link.css";
+
+.video-block {
+  height: 323px;
+  border-radius: 5px;
+  overflow: hidden;
+}

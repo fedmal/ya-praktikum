@@ -1,0 +1,6 @@
+.video-block__play {
+  position: relative;
+  z-index: 5;
+  width: 41px;
+  height: 41px;
+}

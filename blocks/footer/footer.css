@@ -1,0 +1,12 @@
+@import "./footer__list/footer__list.css";
+@import "./footer__item/footer__item.css";
+@import "./footer__link/footer__link.css";
+@import "./footer__copyright/footer__copyright.css";
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}

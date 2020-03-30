@@ -1,0 +1,10 @@
+@import "./video__title/video__title.css";
+@import "./video__subtitle/video__subtitle.css";
+@import "./video__list/video__list.css";
+
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 56px;
+}

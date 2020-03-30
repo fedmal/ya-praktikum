@@ -1,0 +1,14 @@
+@import "./place__title/place__title.css";
+@import "./place__site-head/place__site-head.css";
+@import "./place__url/place__url.css";
+@import "./place__site/place__site.css";
+@import "./place__img/place__img.css";
+@import "./place__text/place__text.css";
+
+.place {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-row-gap: 54px;
+  grid-column-gap: 16px;
+  max-width: 1080px;
+}

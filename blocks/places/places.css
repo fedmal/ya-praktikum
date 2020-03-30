@@ -1,0 +1,8 @@
+@import "./places__list/places__list.css";
+@import "./places__item/places__item.css";
+
+.places {
+  max-width: 1080px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}

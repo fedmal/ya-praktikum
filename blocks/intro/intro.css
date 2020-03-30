@@ -1,0 +1,11 @@
+@import "./intro__title/intro__title.css";
+@import "./intro__text/intro__text.css";
+@import "./intro__list/intro__list.css";
+@import "./intro__item/intro__item.css";
+@import "./intro__number/intro__number.css";
+
+.intro {
+  max-width: 1080px;
+  padding-top: 62px;
+  padding-bottom: 46px;
+}

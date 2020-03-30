@@ -1,0 +1,10 @@
+.video-block__duration {
+  position: relative;
+  z-index: 5;
+  margin-top: auto;
+  margin-bottom: 12px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 13px;
+  letter-spacing: 0.3em;
+}

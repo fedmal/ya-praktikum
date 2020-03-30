@@ -1,0 +1,53 @@
+@import "vendor/normalize.css";
+@import "blocks/container/container.css";
+@import "blocks/cover-item/cover-item.css";
+@import "blocks/page/page.css";
+@import "blocks/logo/logo.css";
+@import "blocks/language/language.css";
+@import "blocks/header/header.css";
+@import "blocks/lead/lead.css";
+@import "blocks/intro/intro.css";
+@import "blocks/photo-grid/photo-grid.css";
+@import "blocks/place/place.css";
+@import "blocks/places/places.css";
+@import "blocks/video-block/video-block.css";
+@import "blocks/video/video.css";
+@import "blocks/comments/comments.css";
+@import "blocks/cover/cover.css";
+@import "blocks/footer/footer.css";
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/Inter-Regular.woff2") format("woff2"),
+       url("fonts/Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("fonts/Inter-Medium.woff2") format("woff2"),
+       url("fonts/Inter-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("fonts/Inter-Bold.woff2") format("woff2"),
+       url("fonts/Inter-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("fonts/Inter-Black.woff2") format("woff2"),
+       url("fonts/Inter-Black.woff") format("woff");
+}

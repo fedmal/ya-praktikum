@@ -1,0 +1,11 @@
+@import "./cover__img/cover__img.css";
+@import "./cover__title/cover__title.css";
+@import "./cover__description/cover__description.css";
+@import "./cover__content/cover__content.css";
+@import "./cover__link/cover__link.css";
+
+.cover {
+  height: 594px;
+  margin-bottom: 96px;
+  overflow: hidden;
+}
